@@ -36,7 +36,7 @@ session_start();
             </form>
 
             <div id="formFooter">
-                <a class="underlineHover" href="login.php">戻る</a>
+                <a class="underlineHover" href="home.php">戻る</a>
             </div>
         </div>
     </div>
